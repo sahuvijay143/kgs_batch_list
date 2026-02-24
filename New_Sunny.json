@@ -1,13 +1,4 @@
 [
-{"id": 1000, "title": "BPSC TRE 4.0 Class (9-10 & 11-12) Batch 2026", "category_id": 2, "start_at": "", "end_at": "2026-12-31", "image_large": "", "image_thumb": ""},
-{"id": 999, "title": "BPSC TRE 4.0 Class (6-8) Batch 2026", "category_id": 2, "start_at": "", "end_at": "2026-12-31", "image_large": "", "image_thumb": ""},
-{"id": 998, "title": "BPSC TRE 4.0 Class (1-5) Batch 2026", "category_id": 2, "start_at": "", "end_at": "2026-12-31", "image_large": "", "image_thumb": ""},
-{"id": 997, "title": "Bihar Daroga Foundation Batch 2026", "category_id": 2, "start_at": "", "end_at": "2026-10-31", "image_large": "", "image_thumb": ""},
-{"id": 996, "title": "Physics Foundation by Khan Sir 2026", "category_id": 2, "start_at": "", "end_at": "2026-10-07", "image_large": "", "image_thumb": ""},
-{"id": 995, "title": "Geography Foundation by Khan Sir 2026", "category_id": 2, "start_at": "", "end_at": "2026-09-17", "image_large": "", "image_thumb": ""},
-{"id": 994, "title": "Dropper Yearlong Offline Bilingual Batch Prayagraj NEET 2027", "category_id": 4, "start_at": "", "end_at": "2027-05-02", "image_large": "", "image_thumb": ""},
-{"id": 993, "title": "UPSC Foundation Batch 2028 (Musallahpur)", "category_id": 4, "start_at": "", "end_at": "2028-03-26", "image_large": "", "image_thumb": ""},
-{"id": 992, "title": "UPSC Foundation Batch 2028 (Boring Road)", "category_id": 4, "start_at": "", "end_at": "2028-03-24", "image_large": "", "image_thumb": ""},  
 {"id":991,"title":"MPPSC Prelims Batch 2026","category_id":2,"start_at":"2026-02-23","end_at":"2026-04-30","image_large":"https://kgs-v2.akamaized.net/kgs/kgs/courses/large/148e27c4-ca45-435f-9a0b-70ee1baefe32.jpg","image_thumb":"https://kgs-v2.akamaized.net/kgs/kgs/courses/thumb/148e27c4-ca45-435f-9a0b-70ee1baefe32.jpg"},
 {"id":990,"title":"Bihar Daroga (ASI Operator) PT+Mains Batch","category_id":1,"start_at":"2026-03-18","end_at":"2026-10-31","image_large":"https://kgs-v2.akamaized.net/kgs/kgs/courses/large/ac0ef07e-0121-4831-a658-71a7f7d3d675.jpg","image_thumb":"https://kgs-v2.akamaized.net/kgs/kgs/courses/thumb/ac0ef07e-0121-4831-a658-71a7f7d3d675.jpg"},
 {"id":989,"title":"CAPF PAPER - II Batch 2026","category_id":2,"start_at":"2026-02-23","end_at":"2026-08-23","image_large":"https://kgs-v2.akamaized.net/kgs/kgs/courses/large/8e5fa0fb-27db-4cdd-b3d0-2248f3029942.jpg","image_thumb":"https://kgs-v2.akamaized.net/kgs/kgs/courses/thumb/8e5fa0fb-27db-4cdd-b3d0-2248f3029942.jpg"},
